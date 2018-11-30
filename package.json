@@ -1,5 +1,5 @@
 {
-  "name": "start-server-webpack-plugin",
+  "name": "@nickcis/start-server-webpack-plugin",
   "version": "2.2.5",
   "description": "Automatically start your server once Webpack's build completes.",
   "main": "dist/StartServerPlugin.js",
